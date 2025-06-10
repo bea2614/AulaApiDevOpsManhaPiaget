@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|c:\\users\\aluno\\source\\repos\\aulaapidevopsmanhapiaget\\aulaapidevopsmanhapiaget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|solutionrelative:aulaapidevopsmanhapiaget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Migrations\\20250610134716_AulaApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AulaApiDevOpsManhaPiaget\\Migrations\\20250610134716_AulaApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|c:\\users\\aluno\\source\\repos\\aulaapidevopsmanhapiaget\\aulaapidevopsmanhapiaget\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|solutionrelative:aulaapidevopsmanhapiaget\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|c:\\users\\aluno\\source\\repos\\aulaapidevopsmanhapiaget\\aulaapidevopsmanhapiaget\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|solutionrelative:aulaapidevopsmanhapiaget\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|c:\\users\\aluno\\source\\repos\\aulaapidevopsmanhapiaget\\aulaapidevopsmanhapiaget\\data\\aulaapidevopsmanhapiagetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|solutionrelative:aulaapidevopsmanhapiaget\\data\\aulaapidevopsmanhapiagetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|c:\\users\\aluno\\source\\repos\\aulaapidevopsmanhapiaget\\aulaapidevopsmanhapiaget\\models\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|solutionrelative:aulaapidevopsmanhapiaget\\models\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|c:\\users\\aluno\\source\\repos\\aulaapidevopsmanhapiaget\\aulaapidevopsmanhapiaget\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAD6383-3A50-455D-B9D5-BE7145316681}|AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget.csproj|solutionrelative:aulaapidevopsmanhapiaget\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Program.cs",
+              "RelativeDocumentMoniker": "AulaApiDevOpsManhaPiaget\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Program.cs",
+              "RelativeToolTip": "AulaApiDevOpsManhaPiaget\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:10:25.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250610134716_AulaApi.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Migrations\\20250610134716_AulaApi.cs",
+              "RelativeDocumentMoniker": "AulaApiDevOpsManhaPiaget\\Migrations\\20250610134716_AulaApi.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Migrations\\20250610134716_AulaApi.cs",
+              "RelativeToolTip": "AulaApiDevOpsManhaPiaget\\Migrations\\20250610134716_AulaApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:47:16.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\appsettings.json",
+              "RelativeDocumentMoniker": "AulaApiDevOpsManhaPiaget\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\appsettings.json",
+              "RelativeToolTip": "AulaApiDevOpsManhaPiaget\\appsettings.json",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T13:42:22.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AulaApiDevOpsManhaPiagetContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Data\\AulaApiDevOpsManhaPiagetContext.cs",
+              "RelativeDocumentMoniker": "AulaApiDevOpsManhaPiaget\\Data\\AulaApiDevOpsManhaPiagetContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Data\\AulaApiDevOpsManhaPiagetContext.cs",
+              "RelativeToolTip": "AulaApiDevOpsManhaPiaget\\Data\\AulaApiDevOpsManhaPiagetContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:34:18.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "AulaApiDevOpsManhaPiaget\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "AulaApiDevOpsManhaPiaget\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwE8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:30:10.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Models\\Base.cs",
+              "RelativeDocumentMoniker": "AulaApiDevOpsManhaPiaget\\Models\\Base.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Models\\Base.cs",
+              "RelativeToolTip": "AulaApiDevOpsManhaPiaget\\Models\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:23:55.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Models\\Produtos.cs",
+              "RelativeDocumentMoniker": "AulaApiDevOpsManhaPiaget\\Models\\Produtos.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\AulaApiDevOpsManhaPiaget\\AulaApiDevOpsManhaPiaget\\Models\\Produtos.cs",
+              "RelativeToolTip": "AulaApiDevOpsManhaPiaget\\Models\\Produtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:22:07.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
