@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AulaApiDevOpsManhaPiaget")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+824f04065bd780e6fc0e75f911eacd9af17420bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+430ba803f2ae386897ab1f38373ef0952afbc9da")]
 [assembly: System.Reflection.AssemblyProductAttribute("AulaApiDevOpsManhaPiaget")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AulaApiDevOpsManhaPiaget")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
